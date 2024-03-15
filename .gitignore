@@ -2,7 +2,7 @@
 
 *.sqlite3
 
-
+gookbab.pem
 
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,git,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,git,node
